@@ -21,8 +21,7 @@ O objetivo é registrar minha evolução no aprendizado de **programação em Ja
 ```
 .
 ├── desafios/          # Desafios propostos pela DIO
-├── projetos/          # Projetos completos desenvolvidos no curso
-├── anotações/         # Resumos e materiais de estudo
+├── aulas/             # Resumos das aulas e materiais de estudo
 └── README.md          # Este arquivo :)
 ```
 ---
