@@ -46,7 +46,7 @@ public static int somar(int a, int b) {
     return a + b;
 }
 ```
-## 4.1 Teste unitário cm JUnit
+## 3.2 Teste unitário cm JUnit
 
 ```java
 import static org.junit.Assert.assertEquals;
@@ -71,5 +71,6 @@ public class SomaTest {
 - Colaborar com a equipe: QA não é apenas “achar erros”, é prevenir problemas.
 
 ---
+
 
 ### Por Lucas Siqueira
