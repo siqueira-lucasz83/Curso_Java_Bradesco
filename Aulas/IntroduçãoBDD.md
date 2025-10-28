@@ -1,5 +1,7 @@
 # Aula POO – Introdução ao BDD (Behavior-Driven Development) 
-## O que é BDD? **BDD (Behavior-Driven Development)** significa **Desenvolvimento Orientado a Comportamento**.
+## O que é BDD? 
+### **BDD (Behavior-Driven Development)** significa **Desenvolvimento Orientado a Comportamento**.
+---
 ### É uma forma de desenvolver e testar software focando **no comportamento esperado do sistema**, e não apenas no código. Em vez de pensar “qual método eu preciso criar?”, o foco é “como o sistema deve se comportar?”. 
 --- 
 ###  Ideia principal O BDD une **requisitos**, **testes** e **documentação** em um mesmo formato que todos entendem: clientes, analistas, testadores e desenvolvedores. Ele usa uma linguagem chamada **Gherkin**, que é simples e estruturada. 
